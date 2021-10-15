@@ -1,4 +1,4 @@
-# flutter_file_utils
+# local_file_manager
 
 Helper tools for managing files on Android.
 
