@@ -2,12 +2,6 @@
 
 Helper tools for managing files on Android.
 
-## Getting Started
-
-For help getting started with Flutter, view our online [documentation](https://flutter.io/).
-
-For help on editing package code, view the [documentation](https://flutter.io/developing-packages/).
-
 ## Screenshots
 
 <p>
@@ -124,15 +118,5 @@ class _MyAppState extends State<MyApp> {
   * Copy
   * Rename
 
-### Contributors
 
-* [Mohamed Naga](https://github.com/nagakm)
-
-## Donate
-
-* [PayPal](https://www.paypal.me/eagle6789)
-* me49544@gmail.com
-
-### Contact me
-
-* me.dev6789@gmail.com
+[Original Repo](https://github.com/MohamSayed/flutter_file_utils) 
